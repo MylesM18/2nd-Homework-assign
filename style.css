@@ -1,0 +1,62 @@
+body {
+    background-image: url(https://www.syfy.com/sites/syfy/files/2017/09/2016_6largeimg30_thursday_2016_181900382.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    overflow: hidden;
+    line-height: 1.6em;
+}
+
+#topnav{
+    background-color: black;
+    height: 70px;
+    padding-top: 3px;
+}
+
+ul{
+    color: blanchedalmond;
+    margin-top: 30px;
+
+}
+
+li{
+    display: inline;
+    font-size: 24px;
+    border-right: solid 2px blueviolet;
+    
+
+}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+    font-family: cursive;
+}
+
+a:hover{
+    color: pink;
+}
+
+h1{
+    text-align: center;
+    margin-top: 15%;
+    margin-right: 13%;
+    color: burlywood;
+    font-family: cursive;
+    font-size: 85px;
+    text-decoration: underline;
+    
+}
+
+.referenceEmail{
+    text-align: right;
+    font-size: 24px;
+}
+
+.referenceEmail a{
+    color: burlywood;
+    margin-right: 50%;
+}
+
+.referenceEmail a:hover{
+    color: pink;
+}
